@@ -4,3 +4,8 @@ Leo sama Jifri sedang mengerjakan project peminjaman buku
 - Merancang sebuah perangkat
 - Membentuk sorce code
 - Membuat video
+- C++
+- C#
+- Phyton
+- Javascript
+- Html
